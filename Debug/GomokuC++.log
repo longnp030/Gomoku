@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\sdl\assphalt96\main.cpp(86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\sdl\assphalt96\main.cpp(85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\sdl\assphalt96\main.cpp(92): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\sdl\assphalt96\main.cpp(93): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\sdl\assphalt96\main.cpp(99): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\sdl\assphalt96\main.cpp(100): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  GomokuC++.vcxproj -> D:\SDL\Debug\GomokuC++.exe
